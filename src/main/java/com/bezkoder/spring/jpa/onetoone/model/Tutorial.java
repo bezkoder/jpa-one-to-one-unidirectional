@@ -1,6 +1,6 @@
 package com.bezkoder.spring.jpa.onetoone.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

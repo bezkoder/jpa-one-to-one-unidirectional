@@ -2,7 +2,7 @@ package com.bezkoder.spring.jpa.onetoone.model;
 
 import java.util.Date;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "tutorial_details")
